@@ -124,10 +124,7 @@ const engineer = {
 
 ## `> ./github_stats --all`
 
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=mnimannh&show_icons=true&bg_color=0d1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnimannh&layout=compact&langs_count=8&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&hide_border=false"/>
-</div>
+
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnimannh&background=0d1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=555555" />
