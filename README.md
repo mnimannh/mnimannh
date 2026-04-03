@@ -22,7 +22,7 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────┐
-│                    SYSTEM BOOT SEQUENCE                         │
+│                      SYSTEM BOOT SEQUENCE                       │
 ├─────────────────────────────────────────────────────────────────┤
 │  USER     →  Muhammad Nor Iman bin Nor Hizam                    │
 │  ROLE     →  Full-Stack Developer                               │
