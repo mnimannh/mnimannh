@@ -37,24 +37,6 @@
 
 ---
 
-## `> whoami --verbose`
-
-```javascript
-const engineer = {
-  name     : "Muhammad Nor Iman bin Nor Hizam",
-  alias    : "mnimannh",
-  stack    : ["JavaScript", "Node.js", "SQL", "C++", "HTML/CSS"],
-  tools    : ["Cursor", "Claude AI", "Obsidian", "VS Code", "Git"],
-  cloud    : ["AWS", "Vercel", "Netlify", "Supabase"],
-  learning : ["React", "TypeScript", "System Design", "Cloud Architecture"],
-  approach : "AI-augmented development — smarter, faster, cleaner",
-  motto    : "If it works, make it elegant. If it breaks, make it a lesson.",
-  status   : "🟢 Available for exciting opportunities"
-};
-```
-
----
-
 ## `> cat tech_stack.json`
 
 <br/>
@@ -102,23 +84,6 @@ const engineer = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
----
-
-## `> tail -f learning.log`
-
-```
-[SYS] Scanning active learning modules...
-
-  ⚡  React.js         ████████████░░░░  75%   ACTIVE
-  ⚡  TypeScript       ████████░░░░░░░░  50%   ACTIVE
-  ⚡  Cloud (AWS)      ██████░░░░░░░░░░  40%   ACTIVE
-  ⚡  System Design    ████████████░░░░  70%   ACTIVE
-  ⚡  REST APIs        ██████████████░░  85%   NEAR COMPLETE
-
-[SYS] Philosophy: Use AI as a force multiplier, not a crutch.
-[SYS] Target: Ship fast. Ship clean. Ship often.
-```
 
 ---
 
