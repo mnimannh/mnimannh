@@ -22,7 +22,7 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────┐
-│                      SYSTEM BOOT SEQUENCE                       │
+│                    SYSTEM BOOT SEQUENCE                         │
 ├─────────────────────────────────────────────────────────────────┤
 │  USER     →  Muhammad Nor Iman bin Nor Hizam                    │
 │  ROLE     →  Full-Stack Developer                               │
@@ -139,6 +139,10 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008F11,100:00FF41&height=100&section=footer" />
 
